@@ -1,0 +1,6 @@
+const GAME_BOARD_SIZE = 10;
+const PLAYER_ONE_ID = 1;
+const PLAYER_TWO_ID = -1;
+
+
+export { GAME_BOARD_SIZE, FIRST_PLAYER, SECOND_PLAYER };
